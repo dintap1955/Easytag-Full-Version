@@ -239,3 +239,6 @@ This repository serves as the official landing page for EasyTAG. The software is
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of EasyTAG today!**
+
+---
+**Last updated:** 2026-09-08 03:13:22 UTC
