@@ -241,4 +241,4 @@ This repository serves as the official landing page for EasyTAG. The software is
 **Get the most recent version of EasyTAG today!**
 
 ---
-**Last updated:** 2026-09-17 11:01:36 UTC
+**Last updated:** 2026-09-17 16:18:37 UTC
